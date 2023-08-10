@@ -1,0 +1,18 @@
+body {
+    background-color: palegoldenrod;}
+h1 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+#Question {background-color: aliceblue;
+border: 5px solid black;}
+
+header {background-color: rgb(206, 168, 181);
+width: 200px;
+border: 5px solid black;
+padding-left: 50px;
+padding-right: 50px;
+margin: left 20px;
+text-align: center;}
+
+#Giants {background-color: rgb(206, 206, 237);
+border: 5px solid black;}
